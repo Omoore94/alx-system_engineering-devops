@@ -1,1 +1,1 @@
-## This directory explains the basic shell permissions command ##
+## This directory explains the basic shell permissions command in shell##
