@@ -1,5 +1,5 @@
 # Shell, init files, variables and expansions #
-Project done during __ALX Software Engineering program at Holberton School.__ It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters $? and single an double quotes in __Shell.__
+Project done during __ALX Software Engineering programme at ALX Africa.__ It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters $? and single an double quotes in __Shell.__
 
 ## Technologies ##
 * Scripts written in Bash 4.3.11(1)
